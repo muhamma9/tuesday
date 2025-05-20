@@ -9,7 +9,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * A class that creates an Array of Students and populates it
  * with 5 students from the current section and then iterates over the
  * list to print each name.
- * @author dancye, Jan 2019
+ * @author muhamma9, Jan 2019
  */
 public class StudentList {
     
